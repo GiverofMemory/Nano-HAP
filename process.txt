@@ -2,7 +2,7 @@ Prepare Cleaned, phosphoric acid (60mL; 85%) regenerated with 15mL sio2*, pH neu
 
 Set aside cellulose in around 800mL water (remaining after decanting off) in 2L flask.  
 
-ADD Calcium ammonium nitrate (CAN) 216.1g to the 2L flask with cellulose and dissolve (with stirplate). Vol to ~1100mL with extra H2O.
+ADD (wait until cellulose is done) Calcium ammonium nitrate (CAN) 216.1g to the 2L flask with cellulose liquid and dissolve (with stirplate). Vol to ~1100mL with extra H2O.
 
 Prepare Diammonium Hydrogen Phosphate (DHP) (NH4HPO4) 79.2g (dissolved in 250ml), set aside.
 
@@ -10,9 +10,9 @@ ADD NH4HPO4 Solution DROPWISE while stirring to 2L flask with Cellulose-Calcium 
 
 Prepare NaOH 50g in 100mL stirred till clear, then added dropwise to calcium phosphate solution (with addition funnel).
 
-Let stir basified nHAP for several hours to nano disperse.  Then fill up the 2L flask containing the nHAp with water, stir, then let nHAP settle in refrigerator.  Supernatant (supe) should be clear (if not you didn't add enough cellulose).  Pour off supernatant.  Repeat several times until supe ph neutral.  Then let settle and discard supernatant and add 150mL 12.5% h2o2 and pour into a recrystalizing dish under a fan to dry.  Should be bone dry, may take a few days of drying.
+Let stir basified nHAP for several hours to nano disperse.  Then fill up the 2L flask containing the nHAp with water, stir, then let nHAP settle in refrigerator.  Supernatant (supe) should be clear (if not you didn't add enough cellulose).  Pour off supernatant.  Repeat several times until supe ph neutral or ppm is decently under 1000.  Then let settle and discard supernatant and add 150mL 12.5% h2o2 and pour into a recrystalizing dish under a fan to dry.  Should be bone dry, may take a few days of drying.
 
-*3g sio2 melted with 9g koh (keep melted about 30 mins, don't boil); dilute with 50mL water (ONLY USE 15mL per batch).  If it doesn't melt, add a few mL of water and let it evaporate out to dryness.
+*3g sio2 melted with 9g koh (keep melted about 30 mins, don't boil; If it doesn't melt, add a few mL of water and let it evaporate out to dryness); dilute with 50mL water (ONLY USE 15mL out of this 50mL per batch, so 50 mL will last 3 batches).  
 
 **350mL water plus silicate solution is regeneration buffer.  Cellulose acid warm before adding to warm regen buffer while stirring.  Stir regenerated cellulose around 6 hours till nano-disperse. Wash with multiple flasks full of water.  Fill flask and let settle then decant.  When pH of supernatant is neutral, pour off excess water and use remaining with cellulose to dissolve CAN.
 
